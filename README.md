@@ -1,5 +1,8 @@
 # Autoscaling Project
 
+![Alt text](Full-Architecture.png)
+----
+
 This project demonstrates how to set up and configure an autoscaling environment using AWS. It involves creating a VPC, subnets, EC2 instances, an Application Load Balancer (ALB), and CloudWatch alarms to automatically scale the number of instances based on CPU utilization.
 
 
